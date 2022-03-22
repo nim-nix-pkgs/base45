@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-base45-trunk.flake = false;
+  inputs.src-base45-trunk.ref   = "refs/heads/trunk";
   inputs.src-base45-trunk.owner = "~ehmry";
-  inputs.src-base45-trunk.ref   = "trunk";
   inputs.src-base45-trunk.repo  = "base45";
   inputs.src-base45-trunk.type  = "sourcehut";
   
