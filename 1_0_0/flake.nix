@@ -11,7 +11,6 @@
   inputs.src-base45-1_0_0.ref   = "1.0.0";
   inputs.src-base45-1_0_0.owner = "~ehmry";
   inputs.src-base45-1_0_0.repo  = "base45";
-  inputs.src-base45-1_0_0.dir   = "";
   inputs.src-base45-1_0_0.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
