@@ -11,6 +11,7 @@
   inputs.src-base45-trunk.ref   = "trunk";
   inputs.src-base45-trunk.owner = "~ehmry";
   inputs.src-base45-trunk.repo  = "base45";
+  inputs.src-base45-trunk.dir   = "";
   inputs.src-base45-trunk.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
