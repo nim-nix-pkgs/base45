@@ -7,7 +7,7 @@
   "license": "Unlicense",
   "web": "https://git.sr.ht/~ehmry/base45",
   "refs": [
-    "fatal: unable to access 'https://git.sr.ht/~ehmry/base45/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://git.sr.ht/~ehmry/base45/': Could not resolve host: git.sr.ht",
     ""
   ],
   "heads": []
