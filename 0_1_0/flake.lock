@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-base45-trunk": "src-base45-trunk"
+        "src-base45-0_1_0": "src-base45-0_1_0"
       }
     },
-    "src-base45-trunk": {
+    "src-base45-0_1_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1641415135,
-        "narHash": "sha256-tkA210ezieQuCo+21x0Zni3QemOQnKwj+D7/67S1Lq4=",
+        "lastModified": 1641410344,
+        "narHash": "sha256-Ejn9s5AdD/MRBhoosKvDJKcJqPF17AzLI6L8cILRI24=",
         "owner": "~ehmry",
         "repo": "base45",
-        "rev": "fe4c6599276c4df351f31a338de2aaa79c74dd64",
+        "rev": "473cc1d008cc7e3d7e4ca095b771831f3d10f7af",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "0.1.0",
         "repo": "base45",
         "type": "sourcehut"
       }

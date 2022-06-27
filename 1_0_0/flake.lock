@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-base45-trunk": "src-base45-trunk"
+        "src-base45-1_0_0": "src-base45-1_0_0"
       }
     },
-    "src-base45-trunk": {
+    "src-base45-1_0_0": {
       "flake": false,
       "locked": {
         "lastModified": 1641415135,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "1.0.0",
         "repo": "base45",
         "type": "sourcehut"
       }
